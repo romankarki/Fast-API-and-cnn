@@ -1,0 +1,8 @@
+1. download monkey species dataset from https://www.kaggle.com/slothkong/10-monkey-species
+
+2. then run MY_CNN_MODEL.ipynb to save model to disk
+
+3. inception_cnn.h5 will be available in Fast-api folder
+
+4. Then run the APi 
+
